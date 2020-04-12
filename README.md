@@ -9,7 +9,7 @@ This is an open-source document built by the 2019 Fall Big Data course to assist
 ## Assistants
 
 - [Sec 01 Santhosh]()
-- [Sec 02 Rohan]()
+- [Sec 02 Rohan](https://github.com/rohan6471)
 
 ## Sections
 
