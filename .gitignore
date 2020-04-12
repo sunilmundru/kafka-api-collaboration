@@ -2,3 +2,14 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+# Visual Studio Code
+.vscode/*
+*.code-workspace
+.history/
+
+# MacOS
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
