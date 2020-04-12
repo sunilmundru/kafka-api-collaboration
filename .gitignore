@@ -10,6 +10,11 @@ _site/
 
 # MacOS
 .DS_Store
+.DS_Store?
 Desktop.ini
 ._*
+ehthumbs.db
 Thumbs.db
+.DS_Store
+.Spotlight-V100
+.Trashes
