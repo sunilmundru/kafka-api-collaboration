@@ -14,27 +14,11 @@ This is an open-source document built by the 2019 Fall Big Data course to assist
 ## Sections
 
 - [Part 6 - Explore](6.md)
-- [Part 7 - Start the Services]()
+- [Part 7 - Start the Services](7.md)
 - [Part 8 - Start the Java Apps]()
 
 
----
-# Process - Part 7 - Start the Services
----
-
-## 7.1 Start a Zookeeper service. Keep the window open. What is the command? What directory must you be in to run this command as provided? Why?
-
-Ans:
-
-
-## 7.2 Start a Kafka service. Keep the window open. What is the command? What directory must you be in to run this command as provided? Why?
-
-Ans:
-
-
---- 
 # Process - Part 8 - Start the Java Apps
---- 
 
 ## 8.1 Start your consumer using the command provided. What directory must you be in to run this command as provided? Why?
 
